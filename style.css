@@ -1,0 +1,35 @@
+
+
+body {
+    background-color: coral;
+}
+
+body {
+    font-family: Verdana, Geneva, sans-serif
+}
+
+div.overskrift {
+    color: #2B4FB3;
+    font-size: 35px;
+    font-family: Verdana, Geneva, sans-serif
+    
+}
+
+h1 {
+    color: #2B4FB3
+}
+
+h2 {
+    color: #83A2F7
+}
+
+h3 {
+    color: #4545B3
+}
+
+
+
+
+.frame {
+    border: 3px solid #FA5728;
+}
