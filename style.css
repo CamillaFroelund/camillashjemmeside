@@ -17,17 +17,32 @@ div.overskrift {
 
 h1 {
     color: #2B4FB3
+    text-aling: center;
 }
 
 h2 {
     color: #83A2F7
+    text-aling: center;
 }
 
 h3 {
     color: #4545B3
+    text-aling: center;
 }
 
 
 .frame {
     border: 3px solid #FA5728;
+}
+
+
+.content {
+  max-width: 500px;
+  margin: auto;
+}
+
+.image.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
